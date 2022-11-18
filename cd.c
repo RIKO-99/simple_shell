@@ -52,7 +52,7 @@ void cd_dot(data_shell *datash)
 }
 
 /**
- * cd_to - changes to a directory given
+ * cd_to -> changes to a directory given
  * by the user
  *
  * @datash: data relevant (directories)
