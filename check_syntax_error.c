@@ -16,7 +16,7 @@ int repeated_char(char *input, int i)
 }
 
 /**
- * error_sep_op - finds syntax errors
+ * error_sep_op -> finds syntax errors
  *
  * @input: input string
  * @i: index
