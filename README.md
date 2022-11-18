@@ -1,4 +1,4 @@
-This is a group project under the alx holberton software engineering program.
+This is a group project under the alx holberton software engineering program {Cohort 9 - 2022}
 
 #Authors
 >>> IBRAHIM HASSAN
